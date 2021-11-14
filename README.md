@@ -1,3 +1,3 @@
-# Cybercrime-Awareness
+# Phishing-Websites
 
-In this space i'll post all the materials i worked on for the first Project in SDAIA Data Science bootcamp
+In this repository i'll share all the materials i worked on for the first Project in SDAIA Data Science bootcamp

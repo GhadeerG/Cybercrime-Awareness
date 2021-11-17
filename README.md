@@ -1,4 +1,4 @@
-# Phishing-Websites
+# Phishing Websites Project
 
 In this repository, I'll be gladly sharing all the materials i worked on for the first Project in SDAIA Data Science Bootcamp.
 

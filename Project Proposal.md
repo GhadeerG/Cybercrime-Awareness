@@ -1,4 +1,4 @@
-# Phishing Websites Project
+# Phishing Websites Project (EDA)
 
 ### 
 

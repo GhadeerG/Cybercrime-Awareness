@@ -22,4 +22,4 @@ Almost 42% of Saudis in this sample check the source of the link which is a good
 
 22% got phishsed! How can I -As a tech savvy/Data Scientist- notify them?
 
-Let's see that in the Project Proposal.
+Let's see that in the Project Write_Up.

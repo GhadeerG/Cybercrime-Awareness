@@ -22,11 +22,4 @@ Almost 42% of Saudis in this sample check the source of the link which is a good
 
 22% got phishsed! How can I -As a tech savvy/Data Scientist- notify them?
 
-I took all the symbols that potentially stuffed in the phishing links and represented them in the bar chart to see which factor will be the red flag to the user, As we can see below that the the URL length is the most likely factor considered, then top 5 symbols come right after are: slash (/), dot (.), and (&), tld (.com) and hyphen (-) as you can see in the below bar chart.
-
-<img width="475" alt="Screen Shot 2021-11-21 at 12 22 36 AM" src="https://user-images.githubusercontent.com/93079431/142741366-761cf687-a26c-4a35-92a4-832492d40571.png">
-
-However, the repetition of these symbols should notify the user to be careful.
-
-
-Good protection from phishing comes first by educating myself and people around me.
+Let's see that in the Project Proposal.

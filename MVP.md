@@ -1,4 +1,4 @@
-# Phishing Websites Project (EDA)
+# Phishing Websites Project (MVP)
 
 
 This project is about how to recognize and differentiate between links that are considered suspicious "Phishing" links or not, and how much people are aware of that.

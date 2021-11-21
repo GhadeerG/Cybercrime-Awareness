@@ -64,7 +64,7 @@ Yes they got phished and even the number of users who always make sure to check 
 
 how we can avoid such a thing happen in the future?
 
-# Communication and deliverables
+# Communication and Deliverables
 
 I took all the symbols that potentially stuffed in the phishing links and represented them in the bar chart to see which factor will be the red flag to the user, As we can see below that the the URL length is the most likely factor considered.
 

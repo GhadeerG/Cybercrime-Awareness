@@ -30,7 +30,8 @@ the answer in the pie chart down.
 
 22% got phishsed! How can I -As a tech savvy/Data Scientist- notify them?
 
-Let's see that in the Project **Write_Up.**
+Let's see that in the Project **[Write_Up](https://github.com/GhadeerG/Phishing-Websites/blob/main/Write_Up.md)**!!
 
-Here you can find more about the Project Proposal / Slides / Code.
+Here you can find more about the [Project Proposal](https://github.com/GhadeerG/Phishing-Websites/blob/main/Project%20Proposal.md) / Slides / Code.
+
 

@@ -66,7 +66,7 @@ how we can avoid such a thing happen in the future?
 
 # Communication and deliverables
 
-Let's take the phishing datatset and look what was the most common feature between all phishing links? check  the figure below.
+I took all the symbols that potentially stuffed in the phishing links and represented them in the bar chart to see which factor will be the red flag to the user, As we can see below that the the URL length is the most likely factor considered.
 
 
 <img width="509" alt="Screen Shot 2021-11-21 at 4 12 22 AM" src="https://user-images.githubusercontent.com/93079431/142745490-42044122-a549-4716-9223-68d53e854e67.png">

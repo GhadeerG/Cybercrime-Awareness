@@ -77,3 +77,10 @@ and let's see more..
 
 <img width="491" alt="Screen Shot 2021-11-21 at 12 15 54 AM" src="https://user-images.githubusercontent.com/93079431/142746222-9e966e09-8e00-4d69-95e2-86fb6b51f437.png">
 
+However, the repetition of these symbols should notify the user to be careful
+
+# Future Work
+
+Due to the limited time that we have in this bootcamp to deliver the outcomes of this project which is only 2 weeks, i stopped tell this point, in future work:
+1. I want to see the correlation between the age of users and their cybercrime awareness and thier tech background.
+2. Suggest a weekly sessions for that category of age which have the most cybercrime attacks to raise awareness.

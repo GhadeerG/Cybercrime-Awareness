@@ -7,7 +7,7 @@ The Aim of This analytical project is to find out the similar characteristics of
 
 <img width="528" alt="Screen Shot 2021-11-21 at 3 05 10 AM" src="https://user-images.githubusercontent.com/93079431/142744445-ccf960d5-0ccd-457f-a5ed-9111929e2872.png">
 
-# Desgin
+# Design
 **I used two datasets:**
 1. [Phishing Websites Dataset](https://www.sciencedirect.com/science/article/pii/S2352340920313202) [click to find the source]
 

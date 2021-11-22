@@ -83,4 +83,4 @@ However, the repetition of these symbols should notify the user to be careful.
 
 Due to the limited time that we have in this bootcamp to deliver the outcomes of this project which is only 2 weeks, i stopped tell this point, in future work:
 1. Make a module that will allow the user to insert any link that he/she is suspicious about and the module will represent how much out of 100% it's suspicious to be phishing.
-2. Making huge local dataset of phishing websites similar to PhishTank.com
+2. Making a huge local dataset of phishing websites similar to [PhishTank.org](https://phishtank.org/)

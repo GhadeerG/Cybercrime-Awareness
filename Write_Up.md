@@ -1,6 +1,6 @@
 
 # Phishing Websites EDA
-First Project of T5 Data Science Bootcamp
+This if the first Project of T5 Data Science Bootcamp
 
 # Abstract
 The Aim of This analytical project is to find out the similar characteristics of links that are suspicious to be phishing links, and measure the awareness toward this common cybercrime method.

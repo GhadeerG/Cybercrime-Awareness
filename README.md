@@ -24,7 +24,7 @@ the answer in the pie chart down.
 
 <img width="588" alt="Screen Shot 2021-11-21 at 12 16 16 AM" src="https://user-images.githubusercontent.com/93079431/142741659-860c05a6-9ac7-4149-b686-feec028ec813.png">
 
-83% of Saudis in this sample make sure to check the source of the link which is a good indication of the cybercrime awareness but let's see how much of them got phished at least once since they started using the internet.
+38% of Saudis in this sample make sure to check the source of the link which is a good indication of the cybercrime awareness but let's see how much of them got phished at least once since they started using the internet.
 
 <img width="549" alt="Screen Shot 2021-11-21 at 12 49 39 AM" src="https://user-images.githubusercontent.com/93079431/142741869-ef88de61-98e7-408f-afbf-c653158d4188.png">
 

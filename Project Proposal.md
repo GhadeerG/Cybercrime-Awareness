@@ -7,11 +7,12 @@
 > _**“Is this a trusted link?”**_
 
 In today’s digital age, and with the digital transformation that we are witnessing nowadays not locally in our country only but in the whole world, cybercrime affects all of us directly or indirectly because as individuals and companies, we all have information that is worth something to cybercriminals.
+
 The most cybercrime common way to attack an induvial is phishing websites especially lately due to COVID-19, the use of the internet and E-commerce, E-governance sites has increased.
 Dr.Khalid Bin Abdullah Alsabti the governor of the Cybersecurity Authority has announced on 7th April of 2021 in the Opening of the global cybersecurity conference that phishing sites increased by 300%! This is a huge increase.
 
 Therefore, in this project, I’ll discuss what’s make the link suspicious to be phishing and how do I trust it?
-The goal is to raise cybercrime awareness caused by the most common cybercrime method which is phishing websites and give simple hints to the users, Might encourage spreading simple posters and prouchors around about the points that I'll extract from this project. 
+The goal is to raise the cybercrime awareness and avoid phishing websites and give simple hints to the users, Might encourage spreading simple posters and prouchors around about the points that I'll extract from this project. 
 
 _**Good protection comes first by educating myself and the people around me.**_
 

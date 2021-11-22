@@ -62,7 +62,7 @@ let's check if even those who make sure to check the source of the link are incl
 
 Yes they got phished and even the number of users who always make sure to check the source of the link are near to those who often check it.
 
-how we can avoid such a thing happen in the future?
+how we can avoid such a thing from happening in the future?
 
 # Communication and Deliverables
 
@@ -82,5 +82,5 @@ However, the repetition of these symbols should notify the user to be careful.
 # Future Work
 
 Due to the limited time that we have in this bootcamp to deliver the outcomes of this project which is only 2 weeks, i stopped tell this point, in future work:
-1. I want to see the correlation between the age of users, their cybercrime awareness, thier tech background, the type of device they usually use (Mobile/Laptop/PC), the type of operating system (macOS,Windows).
-2. Group the most users who are likely to be vulnaruble then suggest a weekly short seissions for them in thier Work/Universty to raise thier cybercrime awareness.
+1. Make a module that will allow the user to insert any link that he/she is suspicious about and the module will represent how much out of 100% it's suspicious to be phishing.
+2. Making huge local dataset of phishing websites similar to PhishTank.com

@@ -68,14 +68,13 @@ how we can avoid such a thing from happening in the future?
 
 I took all the symbols that potentially stuffed in the phishing links and represented them in the bar chart to see which factor will be the red flag to the user, As we can see below that the the URL length is the most likely factor considered.
 
-<img width="475" alt="Screen Shot 2021-11-21 at 12 22 36 AM" src="https://user-images.githubusercontent.com/93079431/142750830-02d6ad16-c822-49d6-bdc3-d9d358ca2293.png">
-
+<img width="580" alt="Screen Shot 2021-12-02 at 10 29 22 AM" src="https://user-images.githubusercontent.com/93079431/144377164-80bfcecb-acd6-4d81-8c0c-fa81e76b80e0.png">
 
 the length of URL was the highest so it will be a big red flag to any user who is willing to click on a link.
 
 and let's see more..
 
-<img width="491" alt="Screen Shot 2021-11-21 at 12 15 54 AM" src="https://user-images.githubusercontent.com/93079431/142746222-9e966e09-8e00-4d69-95e2-86fb6b51f437.png">
+<img width="646" alt="Screen Shot 2021-12-02 at 10 33 34 AM" src="https://user-images.githubusercontent.com/93079431/144377700-009c369b-0189-43eb-bd5a-0ed1d3be4f2e.png">
 
 However, the repetition of these symbols should notify the user to be careful.
 
